@@ -18,3 +18,4 @@
 <?php echo phpinfo()."Joes change3"; ?>
 <?php echo phpinfo()."Joes change4"; ?>
 <?php echo phpinfo()."Joes change5"; ?>
+<?php echo phpinfo()."Joes change6"; ?>
